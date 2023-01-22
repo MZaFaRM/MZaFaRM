@@ -3,9 +3,11 @@
 
 <h2>I'm,</h2>
 
-| [![**Muhammed Zafar**](https://user-images.githubusercontent.com/98420006/213889748-cd716229-a614-4b65-8a85-8a950c8cbbfa.png)](https://mzafarm.github.io/SignatureSource/) |
-|:----------:|
-|       ☝️  [Signature Source](https://github.com/MZaFaRM/SignatureSource)    ☝️      |
+[![**Muhammed Zafar**](https://user-images.githubusercontent.com/98420006/213889748-cd716229-a614-4b65-8a85-8a950c8cbbfa.png)](https://mzafarm.github.io/SignatureSource/)
+<p align="center">
+  <a href="https://github.com/MZaFaRM/SignatureSource">☝️ Signature Source ☝️</a>
+</p>
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -27,13 +29,11 @@
 
 <br>
 
-<!-- ![Zafar's Github Stats](https://github-readme-stats.vercel.app/api?username=MZaFaRM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MZaFaRM&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zafar's Github Stats">
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MZaFaRM&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zafar's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZaFaRM&layout=compact&text_color=daf7dc&bg_color=151515" alt="Zafar's Top Langs">
+</div>
 
-</br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MZaFaRM&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MZaFaRM/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -46,5 +46,7 @@
 
 ----
 
-![Perfect Night](https://i.pinimg.com/originals/70/9a/bf/709abf01d17e599c6319d4ffe5100d4c.gif)
+<div align="center">
+  <img align="center" src="https://cdnb.artstation.com/p/assets/images/images/016/439/151/original/westen-fry-bonfire2x.gif?1552169136" alt="Perfect Night">
+</div>
 
