@@ -29,6 +29,8 @@
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZaFaRM&layout=compact&text_color=daf7dc&bg_color=151515" alt="Zafar's Top Langs"> -->
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MZaFaRM&theme=highcontrast)](https://git.io/streak-stats)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
