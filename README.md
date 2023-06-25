@@ -7,9 +7,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Django.
-- 🤔 &nbsp; Going through CS50P.
+- 🤔 &nbsp; Going through CS50AI.
 - 🎓 &nbsp; Pursuing Bachelor of Tech in Computer Science.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
+- 🌱 &nbsp; Enthusiast in web development and Artificial Intelligence.
 - ✍️ &nbsp; Attempting to increase the words in this readme.
 - 🍁 &nbsp; A day at a time!
 
@@ -27,8 +27,8 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MZaFaRM&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zafar's Github Stats">
   <img align="center" src="https://streak-stats.demolab.com/?user=MZaFaRM&theme=highcontrast&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zafar's Github Stats">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZaFaRM&layout=compact&text_color=daf7dc&bg_color=151515" alt="Zafar's Top Langs"> -->
-</div>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZaFaRM&layout=compact&text_color=daf7dc&bg_color=151515" alt="Zafar's Top Langs"> -->
+</div> 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
