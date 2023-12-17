@@ -1,33 +1,39 @@
-# *Welcome to my corner of the internet!*
+<!-- # **Hello there!** -->
 
-[![**Muhammed Zafar**](https://user-images.githubusercontent.com/98420006/213889748-cd716229-a614-4b65-8a85-8a950c8cbbfa.png)](https://mzafarm.github.io/SignatureSource/)
-<p align="center">Hello there!</p>
+![Muhammed Zafar](https://github.com/MZaFaRM/MZaFaRM/assets/98420006/e533fe1d-fdc4-4fbd-aa12-04b982c0aa7d)
 
+<!-- [![**Muhammed Zafar**](https://user-images.githubusercontent.com/98420006/213889748-cd716229-a614-4b65-8a85-8a950c8cbbfa.png)](https://mzafarm.github.io/SignatureSource/)
+<p align="center">Hello there!</p>  -->
+<!-- ![LinkedIn cover - 5](https://github.com/MZaFaRM/MZaFaRM/assets/98420006/0bd2a13a-0ab1-430e-95c7-6552ab4d7db9) -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Django.
-- 🤔 &nbsp; Going through CS50AI.
-- 🎓 &nbsp; Pursuing Bachelor of Tech in Computer Science.
-- 🌱 &nbsp; Enthusiast in web development and Artificial Intelligence.
-- ✍️ &nbsp; Attempting to increase the words in this readme.
-- 🍁 &nbsp; A day at a time!
+<ul>
+  <li>I’m currently learning Django;</li>
+  <li>Going through CS50AI;</li>
+  <li>Pursuing Bachelor of Tech in Computer Science;</li>
+  <li>Enthusiast in web development and Artificial Intelligence;</li>
+  <li>Attempting to increase the words in this readme;</li>
+  <li>A day at a time;</li>
+</ul>
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Flask | Django
-- 🛢 &nbsp; MySQL | SQLite
-- 🔧 &nbsp; Visual Studio code
-- 🖥 &nbsp; Figma
+<ul>
+  <li>Python | HTML | CSS | JavaScript;</li>
+  <li>Flask | Django;</li>
+  <li>MySQL | SQLite;</li>
+  <li>Visual Studio code;</li>
+  <li>Figma;</li>
+</ul>
 
 <br>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MZaFaRM&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zafar's Github Stats"><br><br>
   <img align="center" src="https://streak-stats.demolab.com/?user=MZaFaRM&theme=highcontrast&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zafar's Github Stats"><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZaFaRM&text_color=daf7dc&bg_color=151515&hide=javascript,html,css" alt="Zafar's Top Langs"><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZaFaRM&text_color=daf7dc&bg_color=151515&hide=html,css" alt="Zafar's Top Langs"><br><br>
 <img align="center" src="https://komarev.com/ghpvc/?username=MZaFaRM" alt="Profile visits">
 </div> 
 
