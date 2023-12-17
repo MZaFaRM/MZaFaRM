@@ -6,6 +6,7 @@
 <p align="center">Hello there!</p>  -->
 <!-- ![LinkedIn cover - 5](https://github.com/MZaFaRM/MZaFaRM/assets/98420006/0bd2a13a-0ab1-430e-95c7-6552ab4d7db9) -->
 
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 <ul>
@@ -49,6 +50,8 @@
 ----
 
 <div align="center">
+<!--     <img align="center" src="https://github.com/MZaFaRM/MZaFaRM/assets/98420006/fd011995-ae92-4cdb-b08a-0970671821b8" alt="Perfect Night" width="256" height="10"> -->
   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1655601092778752787/E56BABA884C0FACFBF6757AE15B6F07BBBBDEE8C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Perfect Night">
+<!--     <img align="center" src="https://github.com/MZaFaRM/MZaFaRM/assets/98420006/fd011995-ae92-4cdb-b08a-0970671821b8" alt="Perfect Night" width="256" height="256"> -->
 </div>
 
