@@ -10,7 +10,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <ul>
-  <li>I’m currently learning Django;</li>
+  <li>I’m currently learning React;</li>
   <li>Going through CS50AI;</li>
   <li>Pursuing Bachelor of Tech in Computer Science;</li>
   <li>Enthusiast in web development and Artificial Intelligence;</li>
