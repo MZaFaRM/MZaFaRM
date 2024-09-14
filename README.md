@@ -26,6 +26,7 @@
   <li>Flask | Django;</li>
   <li>MySQL | SQLite;</li>
   <li>Visual Studio code;</li>
+  <li>PyTorch | Gymnansium | Stable Baselines3 | pygame </li>
   <li>Figma;</li>
 </ul>
 
