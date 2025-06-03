@@ -20,13 +20,13 @@
 <h3>🛠 Tech Stack</h3>
 
 <ul>
-  <li>Python | HTML | CSS | JavaScript;</li>
-  <li>Flask | Django;</li>
-  <li>MySQL | SQLite;</li>
-  <li>Visual Studio code;</li>
-  <li>PyTorch | Gymnansium | Stable Baselines3 | pygame; </li>
-  <li>Figma;</li>
+  <li>Python | HTML | CSS | JavaScript</li>
+  <li>Flask | Django | FastAPI | React JS | React Native</li>
+  <li>MySQL | SQLite</li>
+  <li>NumPy | Pandas | PyTorch | Gymnasium | Stable Baselines3 | pygame</li>
+  <li>Visual Studio Code | Figma</li>
 </ul>
+
 
 <br>
 
