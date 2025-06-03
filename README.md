@@ -10,10 +10,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <ul>
-  <li>Pursuing Bachelor of Tech in Computer Science;</li>
-  <li>Enthusiast in web development and Artificial Intelligence;</li>
-  <li>Attempting to increase the words in this readme;</li>
-  <li>A day at a time;</li>
+  <li>Bachelor’s in Computer Science;</li>
+  <li>Enthusiast in Software Development and Artificial Intelligence;</li>
+  <li>Committed to building & shipping ideas;</li>
 </ul>
 
 
