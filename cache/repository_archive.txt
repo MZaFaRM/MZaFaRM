@@ -1,0 +1,10 @@
+This is an archive of all of the deleted repositories I have contributed to.
+
+repository (hashed)  total commits  my commits  LOC added by me  LOC deleted by me
+         \                \                \           \___________  \
+          \                \                \_____________________ \  \
+           \                \___________________________________  \ \  \
+____________\___________________________________________________\__\_\__\____
+
+Not all of the "my commits" counts were saved when these were deleted,
+but the total was 0. Commit proof:
