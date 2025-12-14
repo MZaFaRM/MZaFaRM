@@ -59,7 +59,8 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="810">▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▓▓▓▓▓▓▓▓▓█████████</tspan>
 </text>
 
-<circle cx="948" cy="74" r="8" fill="#22c55e">
+<circle cx="948" cy="74" r="8" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.6"/>
+<circle cx="948" cy="74" r="4" fill="#22c55e">
   <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
 </circle>
 
