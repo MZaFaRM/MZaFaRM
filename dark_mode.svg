@@ -62,9 +62,11 @@ pad {opacity: 0.1;}
 </text>
 
 
-<circle cx="948" cy="74" r="8" fill="#22c55e">
+<circle cx="948" cy="74" r="8" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.6"/>
+<circle cx="948" cy="74" r="4" fill="#22c55e">
   <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
 </circle>
+
 
 <text x="550" y="50" fill="#c9d1d9">
 <tspan x="550" y="50">github@mzafarm</tspan> -—————————————————————————————————————————-—-
