@@ -25,7 +25,7 @@ def daily_readme(birthday):
         diff.years, 'year' + format_plural(diff.years), 
         diff.months, 'month' + format_plural(diff.months), 
         diff.days, 'day' + format_plural(diff.days),
-        ' 🎂' if (diff.months == 0 and diff.days == 0) else '')
+        ' 🎂 ' if (diff.months == 0 and diff.days == 0) else '')
 
 
 def format_plural(unit):
