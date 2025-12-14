@@ -35,5 +35,5 @@ jobs:
           git diff
           git config --global user.email "github-actions-bot@mzafarm.github.io"
           git config --global user.name "MZaFaRM/GitHub-Actions-Bot"
-          git commit -m "Updated README" -a || echo "No changes to commit"
+          git commit -m "[BOT] auto update README - $(date +'%Y-%m-%d')" -a || echo "No changes to commit"
           git push
