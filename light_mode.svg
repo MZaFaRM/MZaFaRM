@@ -68,7 +68,7 @@ text, tspan {white-space: pre;}
 <tspan x="550" y="50">github@mzafarm</tspan> -—————————————————————————————————————————-—-
 <tspan x="550" y="80" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">    Running (stable)</tspan>
 <tspan x="550" y="110" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Muhammed Zafar M M</tspan>
-<tspan x="550" y="140" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 2 days</tspan>
+<tspan x="550" y="140" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 3 days</tspan>
 <tspan x="550" y="170" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Mahe, IN (local)</tspan>
 <tspan x="550" y="200" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Software Developer</tspan>
 <tspan x="550" y="230" class="cc">. </tspan><tspan class="key">Environment</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">VSCode, Zsh</tspan>
