@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="850" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="850px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1200px" height="850px" fill="#f6f8fa" rx="15"/>
+<rect width="1200px" height="850px" fill="#f6f8fa" />
 <text x="15" y="30" fill="#30363d" class="ascii">
 <tspan x="15" y="30">                                                    </tspan>
 <tspan x="15" y="50">           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                           </tspan>
