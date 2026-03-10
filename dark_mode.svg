@@ -16,7 +16,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 pad {opacity: 0.1;}
 </style>
-<rect width="1200px" height="850px" fill="#161b22" rx="15"/>
+<rect width="1200px" height="850px" fill="#161b22" />
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                                                   </tspan>
