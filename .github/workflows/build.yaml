@@ -51,7 +51,7 @@ jobs:
               run: |-
                   git add .
                   git diff
-                  git config --global user.email "github-actions-bot@mzafarm.github.io"
-                  git config --global user.name "MZaFaRM/GitHub-Actions-Bot"
-                  git commit -m "[BOT] auto update README - $(date +'%Y-%m-%d')" -a || echo "No changes to commit"
+                  git config --global user.email "bot@mzafarm.github.io"
+                  git config --global user.name "GitHub-Bot"
+                  git commit -m "bot: auto update README - $(date +'%Y-%m-%d')" -a || echo "No changes to commit"
                   git push
