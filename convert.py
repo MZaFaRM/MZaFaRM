@@ -9,7 +9,7 @@ FRAME_COUNT = 140
 FRAME_DELAY_MS = 50
 
 with sync_playwright() as p:
-    browser = p.chromium.launch()
+    browser = p.chromium.launch(channel="chrome")  # use the runner's preinstalled Chrome, skips downloading Chromium + apt deps
     for svg in SVGS:
         page = browser.new_page(viewport={"width": 1200, "height": 850})
         page.goto(svg.as_uri(), wait_until="networkidle")
